@@ -42,7 +42,6 @@
 </div>
 
 ### SKILLS
-alignp <="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,py,lua,vim" />
   </a>
