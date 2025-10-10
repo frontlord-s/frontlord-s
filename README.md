@@ -43,7 +43,7 @@
 
 ### SKILLS
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,py,lua,vim" />
+    <img src="https://skillicons.dev/icons?i=blender,bash" />
   </a>
 </p>
 
