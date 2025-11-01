@@ -5,11 +5,11 @@
                            ║            ██▌.▐█•█▌▐█▌.▐▌██▐█▌ ▐█▌·▐█▌▐▌▐█▌.▐▌▐█•█▌██. ██              ║
                            ║            ▀▀▀ .▀  ▀ ▀█▄▀▪▀▀ █▪ ▀▀▀ .▀▀▀  ▀█▄▀▪.▀  ▀▀▀▀▀▀•              ║
                            +═════════════════════════════════════════════════════════════════════════+
-                           ║                               frontlord                                 ║
+                           ║                                 jedrust                                 ║
                            +═════════════════════════════════════════════════════════════════════════+
                            ║                                                                         ║
                            ║   About:                                                                ║
-                           ║ ├──│» Nicknames: frontlord / frontlord-s / frontlord69 / lordf          ║
+                           ║ ├──│» Nicknames: frontlord / frontlord-s / frontlord69 / jedrust          ║
                            ║ │     ├──│» Also: umbrella1                                             ║
                            ║ │                                                                       ║
                            ║ ├──│» Scriptkiddie, shitcoder, internet hero,                           ║
