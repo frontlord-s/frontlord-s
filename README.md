@@ -1,31 +1,3 @@
-                           +═════════════════════════════════════════════════════════════════════════+
-                           ║            ·▄▄▄▄▄▄         ▐ ▄ ▄▄▄▄▄▄▄▌        ▄▄▄  ·▄▄▄▄               ║
-                           ║            ▐▄▄·▀▄ █·▪     •█▌▐█•██  ██•  ▪     ▀▄ █·██▪ ██              ║
-                           ║            ██▪ ▐▀▀▄  ▄█▀▄ ▐█▐▐▌ ▐█.▪██▪   ▄█▀▄ ▐▀▀▄ ▐█· ▐█▌             ║
-                           ║            ██▌.▐█•█▌▐█▌.▐▌██▐█▌ ▐█▌·▐█▌▐▌▐█▌.▐▌▐█•█▌██. ██              ║
-                           ║            ▀▀▀ .▀  ▀ ▀█▄▀▪▀▀ █▪ ▀▀▀ .▀▀▀  ▀█▄▀▪.▀  ▀▀▀▀▀▀•              ║
-                           +═════════════════════════════════════════════════════════════════════════+
-                           ║                                 jedrust                                 ║
-                           +═════════════════════════════════════════════════════════════════════════+
-                           ║                                                                         ║
-                           ║   About:                                                                ║
-                           ║ ├──│» Nicknames: frontlord / frontlord-s / frontlord69 / jedrust          ║
-                           ║ │     ├──│» Also: umbrella1                                             ║
-                           ║ │                                                                       ║
-                           ║ ├──│» Scriptkiddie, shitcoder, internet hero,                           ║
-                           ║ │     ├──│» couch expert                                                ║
-                           ║ │                                                                       ║
-                           ║ ├──│» Unfortunately, from Russia.                                       ║
-                           ║ │     ├──│» Currently in Hell.                                          ║
-                           ║ │                                                                       ║
-                           ║ ├──│» Gender: PGM Hécate II                                             ║
-                           ║ │     ├──│» Heavy anti-materiel .50 caliber sniper rifle.               ║
-                           ║ │                                                                       ║
-                           ║ ├──│» ENG/RUS                                                           ║
-                           ║ │                                                                       ║
-                           ║ ├──│» I love use 'WTFPL' License in my prjcts                           ║
-                           ║                                                                         ║
-                           +═════════════════════════════════════════════════════════════════════════+
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <img src="https://anlucas.neocities.org/Animated-pink-flickering-stars.gif" alt="gif1" />
   <img src="https://anlucas.neocities.org/clanbase.gif" alt="gif2" />
