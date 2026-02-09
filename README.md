@@ -15,7 +15,7 @@
 
 ### SKILLS
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,bash" />
+    <img src="https://skillicons.dev/icons?i=blender,bash, linux" />
   </a>
 </p>
 
